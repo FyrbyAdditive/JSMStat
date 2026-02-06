@@ -18,6 +18,35 @@ JSMStat connects to your JIRA Cloud instance, discovers service desks automatica
 - **Menu Bar Extra** — Persistent menu bar widget showing open ticket count
 - **Change Notifications** — Real-time alerts for new tickets, status changes, and assignments
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="media/overview.png" alt="Overview Dashboard" width="100%"></td>
+    <td><img src="media/tickettrends.png" alt="Ticket Trends" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Overview Dashboard</em></td>
+    <td align="center"><em>Ticket Trends</em></td>
+  </tr>
+  <tr>
+    <td><img src="media/category.png" alt="By Category" width="100%"></td>
+    <td><img src="media/person.png" alt="By Person" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>By Category</em></td>
+    <td align="center"><em>By Person</em></td>
+  </tr>
+  <tr>
+    <td><img src="media/issues.png" alt="Issues Dashboard" width="100%"></td>
+    <td><img src="media/users.png" alt="End Users" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Issues Dashboard</em></td>
+    <td align="center"><em>End Users</em></td>
+  </tr>
+</table>
+
 ## Requirements
 
 - macOS 26.0 (Tahoe) or later
